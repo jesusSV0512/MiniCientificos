@@ -1,0 +1,28 @@
+.dashed-border-box {
+  background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='24' ry='24' stroke='%23333' stroke-width='4' stroke-dasharray='12%2c 12' stroke-dashoffset='0' stroke-linecap='square'/%3e%3c/svg%3e");
+  border-radius: 24px;
+}
+
+.organic-blob-1 {
+  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+}
+
+.organic-blob-2 {
+  border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
+}
+
+.polaroid-effect {
+  padding: 12px 12px 32px;
+  background: #fff;
+  box-shadow: 0 4px 15px rgb(0 0 0 / 10%);
+}
+
+.filled-icon {
+  font-variation-settings: 'FILL' 1;
+}
+
+.mountain-background {
+  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuB8AcyCR4PKvzxoJoHy1p3Ere641ey2rCcXuWrmbPRBdxiQAPpeFLnOXvxoWPBYgT0ChaYtZ7q8pfZyq-xN8PMPIPy8LzwMGCfKS4EYdymBsldE7XzqUwsjS9zczPgn4wto8OZ0SQuJhyejYO5TTsBToTHHN4rHnXVBMV1Oz_1QHXqLje0W8prmd9w_XAcxfREXsSGXVyglfE8VN9yBFI7Wyd_1zVQHA_ZwODnA9RPVFFEwa1XK-BRmKQ");
+  background-position: center;
+  background-size: cover;
+}
